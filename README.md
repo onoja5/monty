@@ -4,17 +4,12 @@
 
 ## Description
 
-Monty 0.98 is a scripting language that is first compiled into Monty byte codes (Just like Python). It relies on a unique stack, with specific instructions to manipulate it. The goal of this project is to create an interpreter for Monty ByteCodes files.
+Monty is a scripting language that is first compiled into Monty byte codes Just like Python. It relies on a unique stack, with specific instructions to manipulate it. The goal of this project is to create an interpreter for Monty ByteCodes files.
 
 ---
 
 ## Installation
 
-1. Clone the repository:
-
-```console
-https://https://github.com/Giddyware/monty.git
-```
 
 ## Usage
 
@@ -70,4 +65,4 @@ builders.c  helper.c   hsh          README.md  test
 
 ### Authors
 
-[Ade Pelumi ](https://github.com/Giddyware)
+[Michael Onoja ](https://github.com/onoja5)
